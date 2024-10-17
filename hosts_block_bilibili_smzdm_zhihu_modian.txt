@@ -1,0 +1,26 @@
+
+127.0.0.1 bilibili.com
+127.0.0.1 www.bilibili.com
+127.0.0.1 smzdm.com
+127.0.0.1 www.smzdm.com
+127.0.0.1 zhihu.com
+127.0.0.1 www.zhihu.com
+127.0.0.1 modian.com
+127.0.0.1 www.modian.com
+127.0.0.1 www.jd.com
+127.0.0.1 wxaur.cn
+
+127.0.0.1 m.smzdm.com
+127.0.0.1 zhongchou.modian.com
+127.0.0.1 passport.jd.com
+127.0.0.1 mall.jd.com
+127.0.0.1 zhuanlan.zhihu.com
+127.0.0.1 search.smzdm.com
+127.0.0.1 wiki.smzdm.com
+127.0.0.1 post.smzdm.com
+127.0.0.1 mp.weixin.qq.com
+127.0.0.1 res.wx.qq.com
+127.0.0.1 servicewechat.com
+127.0.0.1 wxa.qq.com
+
+127.0.0.1 https://mp.weixin.qq.com
